@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package mapreduce;
+
+// The gRPC service definition for Cluster Management
+service ClusterManagementService {
+  // Master to all Reducers to compile centroids
+  rpc CompileCentroids(CompileCentroidsRequest) returns (CompileCentroidsResponse) {}
+}
+
+// Request for compiling centroids from all reducers
+message CompileCentroidsRequest {
+}
+
+// Response for compiling centroids, contains the updated list of centroids
+message CompileCentroidsResponse {
+  repeated string centroids = 1;
+  bool success = 2;
+  string message = 3;
+}

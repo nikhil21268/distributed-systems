@@ -1,0 +1,38 @@
+syntax = "proto3";
+
+message RegisterSellerRequest {
+  string seller_address = 1;
+  string uuid = 2;
+}
+
+message RegisterSellerResponse {
+  string result = 1;
+}
+
+// Define other message structures for SellItem, UpdateItem, DeleteItem, DisplaySellerItems, SearchItem, BuyItem, AddToWishList, RateItem, NotifyClient, etc.
+
+// Message structure for NotifyClient notification
+message NotifyClientNotification {
+  // Updated item details for notification
+  Item updated_item = 1;
+
+  // Define the structure for the Item message
+  message Item {
+    // Item ID
+    int32 id = 1;
+    // Item price
+    double price = 2;
+    // Item name
+    string name = 3;
+    // Item category
+    string category = 4;
+    // Item description
+    string description = 5;
+    // Quantity remaining
+    int32 quantity_remaining = 6;
+    // Seller's address
+    string seller = 7;
+    // Item rating
+    double rating = 8;
+  }
+}

@@ -1,0 +1,107 @@
+syntax = "proto3";
+
+// Message structure for SearchItem request
+message SearchItemRequest {
+  // Optional: Item name for search
+  string item_name = 1;
+  // Optional: Item category for search (ANY, ELECTRONICS, FASHION, OTHERS)
+  string category = 2;
+}
+
+// Message structure for SearchItem response
+message SearchItemResponse {
+  // List of items returned in the search response
+  repeated Item items = 1;
+
+  // Define the structure for the Item message
+  message Item {
+    // Item ID
+    int32 id = 1;
+    // Item price
+    double price = 2;
+    // Item name
+    string name = 3;
+    // Item category
+    string category = 4;
+    // Item description
+    string description = 5;
+    // Quantity remaining
+    int32 quantity_remaining = 6;
+    // Seller's address
+    string seller = 7;
+    // Item rating
+    double rating = 8;
+  }
+}
+
+// Message structure for BuyItem request
+message BuyItemRequest {
+  // ID of the item to buy
+  int32 item_id = 1;
+  // Quantity to purchase
+  int32 quantity = 2;
+  // Buyer's address
+  string buyer_address = 3;
+}
+
+// Message structure for BuyItem response
+message BuyItemResponse {
+  // Result of the buy operation (SUCCESS or FAIL)
+  string result = 1;
+}
+
+// Message structure for AddToWishList request
+message AddToWishListRequest {
+  // ID of the item to add to the wishlist
+  int32 item_id = 1;
+  // Buyer's address
+  string buyer_address = 2;
+}
+
+// Message structure for AddToWishList response
+message AddToWishListResponse {
+  // Result of adding to the wishlist (SUCCESS or FAIL)
+  string result = 1;
+}
+
+// Message structure for RateItem request
+message RateItemRequest {
+  // ID of the item to rate
+  int32 item_id = 1;
+  // Buyer's address
+  string buyer_address = 2;
+  // Rating given by the buyer (1 to 5)
+  int32 rating = 3;
+}
+
+// Message structure for RateItem response
+message RateItemResponse {
+  // Result of the rating operation (SUCCESS or FAIL)
+  string result = 1;
+}
+
+// Message structure for NotifyClient notification
+message NotifyClientNotification {
+  // Updated item details for notification
+  Item updated_item = 1;
+
+  // Define the structure for the Item message
+  message Item {
+    // Item ID
+    int32 id = 1;
+    // Item price
+    double price = 2;
+    // Item name
+    string name = 3;
+    // Item category
+    string category = 4;
+    // Item description
+    string description = 5;
+    // Quantity remaining
+    int32 quantity_remaining = 6;
+    // Seller's address
+    string seller = 7;
+    // Item rating
+    double rating = 8;
+  }
+}

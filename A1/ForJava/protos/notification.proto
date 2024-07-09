@@ -1,0 +1,35 @@
+syntax = "proto3";
+
+// Message structure for NotifyClient request
+message NotifyClientRequest {
+  // Updated item details for notification
+  Item updated_item = 1;
+
+  // Define the structure for the Item message
+  message Item {
+    // Item ID
+    int32 id = 1;
+    // Item price
+    double price = 2;
+    // Item name
+    string name = 3;
+    // Item category
+    string category = 4;
+    // Item description
+    string description = 5;
+    // Quantity remaining
+    int32 quantity_remaining = 6;
+    // Seller's address
+    string seller = 7;
+    // Item rating
+    double rating = 8;
+  }
+}
+
+// Message structure for NotifyClient response
+message NotifyClientResponse {
+  // Result of the notification operation (SUCCESS or FAIL)
+  string result = 1;
+}
+
+// Define other message structures for additional notification-related communications.

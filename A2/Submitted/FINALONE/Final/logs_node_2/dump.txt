@@ -1,0 +1,2315 @@
+-n 
+Raft node 2 started on port 60002 and 50002.
+election_timeout started for t =  8
+Node 2(follower) received RequestVote RPC from 0.
+Node 2(follower) voted for 0.
+election_timeout started for t =  7
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+Node 2(follower) received GETclient request.
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  9
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  5
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  8
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+Node 2(follower) timed out for term 1. Starting Election
+
+election_timeout started for t =  5
+Node 2(candidate) transitions to candidate state for term 2
+Node 2(candidate) voted for itself.
+Node 2(candidate) sending RequestVote RPC to 60000.
+Node 2(candidate) lease timeout
+Node 2(candidate) timed out for term 2. Starting Election
+
+election_timeout started for t =  7
+Node 2(candidate) transitions to candidate state for term 3
+Node 2(candidate) voted for itself.
+Node 2(candidate) sending RequestVote RPC to 60000.
+Node 2(candidate) timed out for term 3. Starting Election
+
+election_timeout started for t =  8
+Node 2(candidate) transitions to candidate state for term 4
+Node 2(candidate) voted for itself.
+Node 2(candidate) sending RequestVote RPC to 60000.
+Node 2(candidate) received RequestVote RPC from 1.
+Node 2(candidate) received RequestVote RPC from 1.
+Node 2(candidate) received RequestVote RPC from 1.
+Node 2(follower) voted for 1.
+Node 2(follower) voted for 1.
+Node 2(follower) voted for 1.
+election_timeout started for t =  9
+election_timeout started for t =  6
+election_timeout started for t =  6
+Error sending RequestVote RPC to localhost:60000
+Error sending RequestVote RPC to localhost:60000
+Error sending RequestVote RPC to localhost:60000
+Node 2(follower) received no response from 60000.
+Node 2(follower) received no response from 60000.
+Node 2(follower) received no response from 60000.
+Node 2(follower) sending RequestVote RPC to 60001.
+Node 2(follower) sending RequestVote RPC to 60001.
+Node 2(follower) sending RequestVote RPC to 60001.
+Error sending RequestVote RPC to localhost:60001
+Error sending RequestVote RPC to localhost:60001
+Error sending RequestVote RPC to localhost:60001
+Node 2(follower) received no response from 60001.
+Node 2(follower) received no response from 60001.
+Node 2(follower) received no response from 60001.
+Node 2(follower) sending RequestVote RPC to 60003.
+Node 2(follower) sending RequestVote RPC to 60003.
+Node 2(follower) sending RequestVote RPC to 60003.
+Error sending RequestVote RPC to localhost:60003
+Error sending RequestVote RPC to localhost:60003
+Error sending RequestVote RPC to localhost:60003
+Node 2(follower) received no response from 60003.
+Node 2(follower) received no response from 60003.
+Node 2(follower) received no response from 60003.
+Node 2(follower) sending RequestVote RPC to 60004.
+Node 2(follower) sending RequestVote RPC to 60004.
+Node 2(follower) sending RequestVote RPC to 60004.
+Error sending RequestVote RPC to localhost:60004
+Error sending RequestVote RPC to localhost:60004
+Error sending RequestVote RPC to localhost:60004
+Node 2(follower) received no response from 60004.
+Node 2(follower) received no response from 60004.
+Node 2(follower) received no response from 60004.
+Node 2(follower) timed out for term 5. Starting Election
+
+election_timeout started for t =  7
+Node 2(candidate) transitions to candidate state for term 6
+Node 2(candidate) timed out for term 6. Starting Election
+
+Node 2(candidate) voted for itself.
+election_timeout started for t =  6
+Node 2(candidate) sending RequestVote RPC to 60000.
+Node 2(candidate) transitions to candidate state for term 7
+Node 2(candidate) voted for itself.
+Node 2(candidate) sending RequestVote RPC to 60000.
+Node 2(candidate) timed out for term 7. Starting Election
+
+election_timeout started for t =  8
+Node 2(candidate) transitions to candidate state for term 8
+Node 2(candidate) voted for itself.
+Node 2(candidate) sending RequestVote RPC to 60000.
+
+
+Node 2(candidate) received RequestVote RPC from 1.
+Node 2(candidate) received AppendEntries RPC from 1
+Node 2(candidate) received AppendEntries RPC from 1
+Node 2(candidate) rejected AppendEntries RPC from 1 due to invalid leader
+Node 2(candidate) rejected AppendEntries RPC from 1 due to invalid leader
+Node 2(candidate) timed out for term 8. Starting Election
+
+election_timeout started for t =  9
+Node 2(candidate) transitions to candidate state for term 9
+Node 2(candidate) voted for itself.
+Node 2(candidate) sending RequestVote RPC to 60000.
+Error sending RequestVote RPC to localhost:60000
+Error sending RequestVote RPC to localhost:60000
+Error sending RequestVote RPC to localhost:60000
+Node 2(candidate) received no response from 60000.
+Error sending RequestVote RPC to localhost:60000
+Node 2(candidate) received no response from 60000.
+Node 2(candidate) received no response from 60000.
+Node 2(candidate) sending RequestVote RPC to 60001.
+Node 2(candidate) received no response from 60000.
+Node 2(candidate) sending RequestVote RPC to 60001.
+Node 2(candidate) sending RequestVote RPC to 60001.
+Node 2(candidate) sending RequestVote RPC to 60001.
+Error sending RequestVote RPC to localhost:60001
+Node 2(candidate) received no response from 60001.
+Error sending RequestVote RPC to localhost:60001
+Error sending RequestVote RPC to localhost:60001
+Error sending RequestVote RPC to localhost:60001
+Node 2(candidate) sending RequestVote RPC to 60003.
+Node 2(candidate) received no response from 60001.
+Node 2(candidate) received no response from 60001.
+Node 2(candidate) received no response from 60001.
+Node 2(candidate) sending RequestVote RPC to 60003.
+Node 2(candidate) sending RequestVote RPC to 60003.
+Node 2(candidate) sending RequestVote RPC to 60003.
+Error sending RequestVote RPC to localhost:60003
+Error sending RequestVote RPC to localhost:60003
+Error sending RequestVote RPC to localhost:60003
+Error sending RequestVote RPC to localhost:60003
+Node 2(candidate) received no response from 60003.
+Node 2(candidate) received no response from 60003.
+Node 2(candidate) received no response from 60003.
+Node 2(candidate) received no response from 60003.
+Node 2(candidate) sending RequestVote RPC to 60004.
+Node 2(candidate) sending RequestVote RPC to 60004.
+Node 2(candidate) sending RequestVote RPC to 60004.
+Node 2(candidate) sending RequestVote RPC to 60004.
+Error sending RequestVote RPC to localhost:60004
+Error sending RequestVote RPC to localhost:60004
+Error sending RequestVote RPC to localhost:60004
+Error sending RequestVote RPC to localhost:60004
+Node 2(candidate) received no response from 60004.
+Node 2(candidate) received no response from 60004.
+Node 2(candidate) received no response from 60004.
+Node 2(candidate) received no response from 60004.
+Node 2(candidate) timed out for term 9. Starting Election
+
+election_timeout started for t =  9
+Node 2(candidate) transitions to candidate state for term 10
+Node 2(candidate) voted for itself.
+Node 2(candidate) sending RequestVote RPC to 60000.
+Node 2(candidate) timed out for term 10. Starting Election
+
+election_timeout started for t =  6
+Node 2(candidate) transitions to candidate state for term 11
+Node 2(candidate) voted for itself.
+Node 2(candidate) sending RequestVote RPC to 60000.
+Node 2(candidate) received RequestVote RPC from 1.
+Node 2(candidate) received RequestVote RPC from 1.
+Node 2(candidate) received GETclient request.
+Node 2(candidate) timed out for term 11. Starting Election
+
+election_timeout started for t =  8
+Node 2(candidate) transitions to candidate state for term 12
+Node 2(candidate) voted for itself.
+Node 2(candidate) sending RequestVote RPC to 60000.
+Error sending RequestVote RPC to localhost:60000
+Error sending RequestVote RPC to localhost:60000
+Error sending RequestVote RPC to localhost:60000
+Node 2(candidate) received no response from 60000.
+Node 2(candidate) received no response from 60000.
+Node 2(candidate) received no response from 60000.
+Node 2(candidate) sending RequestVote RPC to 60001.
+Node 2(candidate) sending RequestVote RPC to 60001.
+Node 2(candidate) sending RequestVote RPC to 60001.
+Vote Granted! 
+Node 2(candidate) received vote from 60001.
+Vote Granted! 
+Node 2(candidate) received vote from 60001.
+Vote Granted! 
+Node 2(candidate) received vote from 60001.
+Node 2(candidate) sending RequestVote RPC to 60003.
+Node 2(candidate) became the leader for term 12
+Node 2(candidate) became the leader for term 12
+heartbeat_timeout started for t =  1
+heartbeat_timeout started for t =  1
+leader_lease_timeout started for t =  10
+Error sending RequestVote RPC to localhost:60003
+Node 2(leader) received no response from 60003.
+leader_lease_timeout started for t =  10
+
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) lease timeout
+Node 2(leader) lease timeout
+election_timeout started for t =  5
+Stepping Down!
+Node 2(follower) transitions to follower state for term 12
+Node 2(follower) received RequestVote RPC from 1.
+Node 2(follower) received RequestVote RPC from 1.
+Node 2(follower) received RequestVote RPC from 1.
+Node 2(follower) received RequestVote RPC from 1.
+Node 2(follower) voted for 1.
+Node 2(follower) voted for 1.
+Node 2(follower) voted for 1.
+Node 2(follower) voted for 1.
+election_timeout started for t =  6
+election_timeout started for t =  10
+election_timeout started for t =  10
+election_timeout started for t =  8
+Node 2(follower) timed out for term 15. Starting Election
+
+election_timeout started for t =  5
+Node 2(candidate) timed out for term 16. Starting Election
+
+Node 2(candidate) timed out for term 16. Starting Election
+
+Node 2(candidate) transitions to candidate state for term 16
+election_timeout started for t =  8
+election_timeout started for t =  8
+Node 2(candidate) voted for itself.
+Node 2(candidate) transitions to candidate state for term 18
+Node 2(candidate) transitions to candidate state for term 18
+Node 2(candidate) sending RequestVote RPC to 60000.
+Node 2(candidate) voted for itself.
+Node 2(candidate) voted for itself.
+Node 2(candidate) sending RequestVote RPC to 60000.
+Node 2(candidate) sending RequestVote RPC to 60000.
+Error sending RequestVote RPC to localhost:60000
+Error sending AppendEntries RPC to localhost:60000
+Error sending RequestVote RPC to localhost:60000
+Error sending RequestVote RPC to localhost:60000
+Error sending AppendEntries RPC to localhost:60000
+Node 2(candidate) received no response from 60000.
+Node 2(candidate) received no response from 60000.
+Node 2(candidate) sent AppendEntries RPC to localhost:60001.
+Node 2(candidate) sent AppendEntries RPC to localhost:60001.
+Node 2(candidate) sending RequestVote RPC to 60001.
+Node 2(candidate) received no response from 60000.
+Node 2(candidate) sending RequestVote RPC to 60001.
+Node 2(candidate) sending RequestVote RPC to 60001.
+Vote Granted! 
+Node 2(candidate) received vote from 60001.
+Node 2(candidate) sending RequestVote RPC to 60003.
+Vote Granted! 
+Node 2(candidate) received vote from 60001.
+Error sending RequestVote RPC to localhost:60003
+Node 2(candidate) became the leader for term 18
+Node 2(candidate) received no response from 60003.
+Vote Granted! 
+Node 2(leader) received vote from 60001.
+heartbeat_timeout started for t =  1
+leader_lease_timeout started for t =  10
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+Error sending AppendEntries RPC to localhost:60004
+heartbeat_timeout started for t =  1
+heartbeat_timeout started for t =  1
+database:  {}
+database:  {}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) received GETclient request.
+Node 2(leader) timed out for term 18. Starting Election
+
+Node 2(leader) lease timeout
+election_timeout started for t =  6
+Stepping Down!
+Node 2(follower) transitions to follower state for term 18
+Node 2(follower) received RequestVote RPC from 0.
+Node 2(follower) voted for 0.
+election_timeout started for t =  7
+Node 2(follower) timed out for term 19. Starting Election
+
+election_timeout started for t =  5
+Node 2(candidate) transitions to candidate state for term 20
+Node 2(candidate) voted for itself.
+Node 2(candidate) sending RequestVote RPC to 60000.
+Vote Granted! 
+Node 2(candidate) received vote from 60000.
+Node 2(candidate) sending RequestVote RPC to 60001.
+Vote Denied!
+Node 2(candidate) recieved False vote from 60001.
+Node 2(candidate) sending RequestVote RPC to 60003.
+Error sending RequestVote RPC to localhost:60003
+Node 2(candidate) received no response from 60003.
+Node 2(candidate) sending RequestVote RPC to 60004.
+Error sending RequestVote RPC to localhost:60004
+Node 2(candidate) received no response from 60004.
+Node 2(candidate) received GETclient request.
+Node 2(candidate) timed out for term 20. Starting Election
+
+election_timeout started for t =  6
+Node 2(candidate) transitions to candidate state for term 21
+Node 2(candidate) voted for itself.
+Node 2(candidate) sending RequestVote RPC to 60000.
+Vote Granted! 
+Node 2(candidate) received vote from 60000.
+Node 2(candidate) sending RequestVote RPC to 60001.
+Vote Denied!
+Node 2(candidate) recieved False vote from 60001.
+Node 2(candidate) sending RequestVote RPC to 60003.
+Error sending RequestVote RPC to localhost:60003
+Node 2(candidate) received no response from 60003.
+Node 2(candidate) sending RequestVote RPC to 60004.
+Error sending RequestVote RPC to localhost:60004
+Node 2(candidate) received no response from 60004.
+Node 2(candidate) timed out for term 21. Starting Election
+
+election_timeout started for t =  6
+Node 2(candidate) transitions to candidate state for term 22
+Node 2(candidate) voted for itself.
+Node 2(candidate) sending RequestVote RPC to 60000.
+Vote Granted! 
+Node 2(candidate) received vote from 60000.
+Node 2(candidate) sending RequestVote RPC to 60001.
+Vote Denied!
+Node 2(candidate) recieved False vote from 60001.
+Node 2(candidate) sending RequestVote RPC to 60003.
+Error sending RequestVote RPC to localhost:60003
+Node 2(candidate) received no response from 60003.
+Node 2(candidate) sending RequestVote RPC to 60004.
+Error sending RequestVote RPC to localhost:60004
+Node 2(candidate) received no response from 60004.
+Node 2(candidate) timed out for term 22. Starting Election
+
+election_timeout started for t =  5
+Node 2(candidate) transitions to candidate state for term 23
+Node 2(candidate) voted for itself.
+Node 2(candidate) sending RequestVote RPC to 60000.
+Vote Granted! 
+Node 2(candidate) received vote from 60000.
+Node 2(candidate) sending RequestVote RPC to 60001.
+Vote Denied!
+Node 2(candidate) recieved False vote from 60001.
+Node 2(candidate) sending RequestVote RPC to 60003.
+Error sending RequestVote RPC to localhost:60003
+Node 2(candidate) received no response from 60003.
+Node 2(candidate) sending RequestVote RPC to 60004.
+Error sending RequestVote RPC to localhost:60004
+Node 2(candidate) received no response from 60004.
+Node 2(candidate) timed out for term 23. Starting Election
+
+election_timeout started for t =  6
+Node 2(candidate) transitions to candidate state for term 24
+Node 2(candidate) voted for itself.
+Node 2(candidate) sending RequestVote RPC to 60000.
+Vote Granted! 
+Node 2(candidate) received vote from 60000.
+Node 2(candidate) sending RequestVote RPC to 60001.
+Vote Denied!
+Node 2(candidate) recieved False vote from 60001.
+Node 2(candidate) sending RequestVote RPC to 60003.
+Error sending RequestVote RPC to localhost:60003
+Node 2(candidate) received no response from 60003.
+Node 2(candidate) sending RequestVote RPC to 60004.
+Error sending RequestVote RPC to localhost:60004
+Node 2(candidate) received no response from 60004.
+Node 2(candidate) timed out for term 24. Starting Election
+
+election_timeout started for t =  10
+Node 2(candidate) transitions to candidate state for term 25
+Node 2(candidate) voted for itself.
+Node 2(candidate) sending RequestVote RPC to 60000.
+Vote Granted! 
+Node 2(candidate) received vote from 60000.
+Node 2(candidate) sending RequestVote RPC to 60001.
+Vote Denied!
+Node 2(candidate) recieved False vote from 60001.
+Node 2(candidate) sending RequestVote RPC to 60003.
+Error sending RequestVote RPC to localhost:60003
+Node 2(candidate) received no response from 60003.
+Node 2(candidate) sending RequestVote RPC to 60004.
+Error sending RequestVote RPC to localhost:60004
+Node 2(candidate) received no response from 60004.
+Node 2(candidate) received RequestVote RPC from 0.
+Node 2(follower) voted for 0.
+election_timeout started for t =  10
+Node 2(follower) received RequestVote RPC from 0.
+Node 2(follower) voted for 0.
+election_timeout started for t =  9
+Node 2(follower) received RequestVote RPC from 0.
+Node 2(follower) voted for 0.
+election_timeout started for t =  9
+Node 2(follower) timed out for term 28. Starting Election
+
+election_timeout started for t =  10
+Node 2(candidate) transitions to candidate state for term 29
+Node 2(candidate) voted for itself.
+Node 2(candidate) sending RequestVote RPC to 60000.
+Node 2(candidate) received RequestVote RPC from 0.
+Error sending RequestVote RPC to localhost:60000
+Node 2(candidate) received no response from 60000.
+Node 2(candidate) sending RequestVote RPC to 60001.
+Vote Denied!
+Node 2(candidate) recieved False vote from 60001.
+Node 2(candidate) sending RequestVote RPC to 60003.
+Error sending RequestVote RPC to localhost:60003
+Node 2(candidate) received no response from 60003.
+Node 2(candidate) sending RequestVote RPC to 60004.
+Error sending RequestVote RPC to localhost:60004
+Node 2(candidate) received no response from 60004.
+Node 2(candidate) received RequestVote RPC from 0.
+Node 2(follower) voted for 0.
+election_timeout started for t =  8
+Node 2(follower) timed out for term 30. Starting Election
+
+election_timeout started for t =  8
+Node 2(candidate) transitions to candidate state for term 31
+Node 2(candidate) voted for itself.
+Node 2(candidate) sending RequestVote RPC to 60000.
+Vote Granted! 
+Node 2(candidate) received vote from 60000.
+Node 2(candidate) sending RequestVote RPC to 60001.
+Vote Denied!
+Node 2(candidate) recieved False vote from 60001.
+Node 2(candidate) sending RequestVote RPC to 60003.
+Error sending RequestVote RPC to localhost:60003
+Node 2(candidate) received no response from 60003.
+Node 2(candidate) sending RequestVote RPC to 60004.
+Error sending RequestVote RPC to localhost:60004
+Node 2(candidate) received no response from 60004.
+Node 2(candidate) timed out for term 31. Starting Election
+
+election_timeout started for t =  10
+Node 2(candidate) transitions to candidate state for term 32
+Node 2(candidate) voted for itself.
+Node 2(candidate) sending RequestVote RPC to 60000.
+Vote Granted! 
+Node 2(candidate) received vote from 60000.
+Node 2(candidate) sending RequestVote RPC to 60001.
+Vote Denied!
+Node 2(candidate) recieved False vote from 60001.
+Node 2(candidate) sending RequestVote RPC to 60003.
+Node 2(candidate) received RequestVote RPC from 0.
+Error sending RequestVote RPC to localhost:60003
+Node 2(follower) voted for 0.
+Node 2(follower) received no response from 60003.
+election_timeout started for t =  8
+Node 2(follower) sending RequestVote RPC to 60004.
+Error sending RequestVote RPC to localhost:60004
+Node 2(follower) received no response from 60004.
+Node 2(follower) received RequestVote RPC from 0.
+Node 2(follower) received RequestVote RPC from 0.
+Node 2(follower) voted for 0.
+Node 2(follower) voted for 0.
+election_timeout started for t =  5
+election_timeout started for t =  7
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  7
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  10
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+
+Node 2(follower) received AppendEntries RPC from 0
+election_timeout started for t =  6
+leader_lease_timeout started for t =  10
+Node 2(follower) accepted AppendEntries RPC from 0
+Node 2(follower) timed out for term 35. Starting Election
+
+election_timeout started for t =  8
+Node 2(candidate) transitions to candidate state for term 36
+Node 2(candidate) voted for itself.
+Node 2(candidate) sending RequestVote RPC to 60000.
+Vote Granted! 
+Node 2(candidate) received vote from 60000.
+Node 2(candidate) sending RequestVote RPC to 60001.
+Vote Granted! 
+Node 2(candidate) received vote from 60001.
+Waiting for leader_lease_node: None, remaining time: 10
+Waiting for leader_lease_node: None
+Waiting for leader_lease_node: None
+Waiting for leader_lease_node: None
+Waiting for leader_lease_node: None
+Waiting for leader_lease_node: None
+Node 2(candidate) received RequestVote RPC from 1.
+Waiting for leader_lease_node: None
+Waiting for leader_lease_node: None
+Waiting for leader_lease_node: None
+Node 2(candidate) received RequestVote RPC from 0.
+Node 2(follower) voted for 0.
+election_timeout started for t =  8
+Waiting for leader_lease_node: None
+Waiting for leader_lease_node: None
+Node 2(follower) lease timeout
+Node 2(follower) became the leader for term 37
+heartbeat_timeout started for t =  1
+leader_lease_timeout started for t =  10
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+Node 2(leader) timed out for term 37. Starting Election
+
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}
+
+Node 2(leader) sent AppendEntries RPC to localhost:60000.
+Node 2(leader) sent AppendEntries RPC to localhost:60001.
+Node 2(leader) sent AppendEntries RPC to localhost:60003.
+Error sending AppendEntries RPC to localhost:60003
+Node 2(leader) sent AppendEntries RPC to localhost:60004.
+Error sending AppendEntries RPC to localhost:60004
+leader_lease_timeout started for t =  10
+heartbeat_timeout started for t =  1
+database:  {'xx': '3'}

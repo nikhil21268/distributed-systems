@@ -1,0 +1,3 @@
+commit_index: 7
+term: 37
+voted_for: 0

@@ -1,0 +1,54 @@
+syntax = "proto3";
+
+package mapreduce;
+
+// The gRPC service definition for MapReduce operations
+service MapReduceService {
+  // Master to Mapper communication
+  rpc InitializeMapper(InitializeMapperRequest) returns (InitializeMapperResponse) {}
+  // Master to Reducer communication
+  rpc InitializeReducer(InitializeReducerRequest) returns (InitializeReducerResponse) {}
+  // Reducer to Mapper communication for fetching partitioned data
+  rpc FetchPartitionData(FetchPartitionRequest) returns (FetchPartitionResponse) {}
+}
+
+// Request to initialize a Mapper with necessary parameters
+message InitializeMapperRequest {
+  int32 mapperId = 1;
+  repeated string centroids = 2;
+  int32 numberOfReducers = 3;
+}
+
+// Response from initializing a Mapper
+message InitializeMapperResponse {
+  bool success = 1;
+  string message = 2;
+}
+
+// Request to initialize a Reducer with necessary parameters
+message InitializeReducerRequest {
+  int32 reducerId = 1;
+}
+
+// Response from initializing a Reducer
+message InitializeReducerResponse {
+  bool success = 1;
+  string message = 2;
+}
+
+// Request for fetching partitioned data from a Mapper by a Reducer
+message FetchPartitionRequest {
+  int32 mapperId = 1;
+  int32 partitionId = 2;
+}
+
+// Response for fetching partitioned data, contains key-value pairs
+message FetchPartitionResponse {
+  repeated KeyValue data = 1;
+}
+
+// Structure for a key-value pair
+message KeyValue {
+  string key = 1;
+  string value = 2;
+}

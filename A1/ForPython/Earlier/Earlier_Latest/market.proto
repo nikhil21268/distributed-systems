@@ -1,0 +1,50 @@
+syntax = "proto3";
+
+
+// Message structure for NotifyClient notification
+message NotifyClientNotification {
+  // Updated item details for notification
+  Item updated_item = 1;
+
+  // Recipient type ("buyer" or "seller")
+  string recipient_type = 2;
+
+  // Define the structure for the Item message
+  message Item {
+    // Item ID
+    int32 id = 1;
+    // Item price
+    double price = 2;
+    // Item name
+    string name = 3;
+    // Item category
+    string category = 4;
+    // Item description
+    string description = 5;
+    // Quantity remaining
+    int32 quantity_remaining = 6;
+    // Seller's address
+    string seller = 7;
+    // Item rating
+    double rating = 8;
+  }
+}
+
+// Message structure for NotifyClient response
+message NotifyClientResponse {
+  string result = 1;
+}
+
+// gRPC service definition
+service MarketService {
+  // ... (other RPC methods)
+
+  // RPC method for notifying clients (buyers/sellers)
+  rpc NotifyClient(NotifyClientNotification) returns (NotifyClientResponse);
+
+}
+
+
+
+
+

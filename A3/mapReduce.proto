@@ -1,0 +1,84 @@
+syntax = "proto3";
+
+// Messages for MapReduceService
+message InitializeMapperRequest {
+  int32 mapperId = 1;
+  repeated string data = 2; // Data points sent as strings
+  repeated string centroids = 3;
+}
+
+message InitializeMapperResponse {
+  bool success = 1;
+  string message = 2;
+}
+
+message InitializeReducerRequest {
+  int32 reducerId = 1;
+}
+
+message InitializeReducerResponse {
+  bool success = 1;
+  string message = 2;
+}
+
+message FetchPartitionRequest {
+  int32 mapperId = 1;
+  int32 partitionId = 2;
+}
+
+message FetchPartitionResponse {
+  repeated KeyValue data = 1;
+}
+
+message KeyValue {
+  string key = 1;
+  string value = 2;
+}
+
+// Messages for ClusterManagementService
+message CompileCentroidsRequest {
+}
+
+message CompileCentroidsResponse {
+  repeated string centroids = 1;
+  bool success = 2;
+  string message = 3;
+}
+
+// Define a message to represent a tuple of two floating-point numbers
+message Point {
+  double x = 1;
+  double y = 2;
+}
+
+// Define a message to hold a list of these points
+message PointList {
+  repeated Point points = 1;
+}
+
+message MapRequest {
+  string command = 1;
+}
+
+message MapResponse {
+  repeated Point data = 1;
+  bool success = 2;
+  string message = 3;
+}
+
+// The gRPC service definition for MapReduce operations
+service MapReduceService {
+  // Master to Mapper communication
+  rpc InitializeMapper(InitializeMapperRequest) returns (InitializeMapperResponse) {}
+
+  // Mapper to Mapper communication for fetching mapped_results
+  rpc Map(MapRequest) returns (MapResponse) {}
+  // Master to Reducer communication
+  rpc InitializeReducer(InitializeReducerRequest) returns (InitializeReducerResponse) {}
+
+  // Reducer to Mapper communication for fetching partitioned data
+  rpc FetchPartitionData(FetchPartitionRequest) returns (FetchPartitionResponse) {}
+  
+  // Master to all Reducers to compile centroids
+  rpc CompileCentroids(CompileCentroidsRequest) returns (CompileCentroidsResponse) {}
+}

@@ -1,0 +1,89 @@
+syntax = "proto3";
+
+message SellItemRequest {
+  // Product details for posting a new item
+  string product_name = 1;
+  string category = 2;
+  int32 quantity = 3;
+  string description = 4;
+  string seller_address = 5;
+  string seller_uuid = 6;
+  double price_per_unit = 7;
+}
+
+message SellItemResponse {
+  // Result of the SellItem operation (SUCCESS or FAIL)
+  string result = 1;
+  // Unique item ID assigned on successful posting (optional)
+  int32 item_id = 2;
+}
+
+// Message structure for UpdateItem request
+message UpdateItemRequest {
+  // ID of the item to update
+  int32 item_id = 1;
+  // New price for the item
+  double new_price = 2;
+  // New quantity for the item
+  int32 new_quantity = 3;
+  // Seller's address for credential verification
+  string seller_address = 4;
+  // Seller's UUID for credential verification
+  string seller_uuid = 5;
+}
+
+// Message structure for UpdateItem response
+message UpdateItemResponse {
+  // Result of the update operation (SUCCESS or FAIL)
+  string result = 1;
+}
+
+// Message structure for DeleteItem request
+message DeleteItemRequest {
+  // ID of the item to delete
+  int32 item_id = 1;
+  // Seller's address for credential verification
+  string seller_address = 2;
+  // Seller's UUID for credential verification
+  string seller_uuid = 3;
+}
+
+// Message structure for DeleteItem response
+message DeleteItemResponse {
+  // Result of the delete operation (SUCCESS or FAIL)
+  string result = 1;
+}
+
+// Message structure for DisplaySellerItems request
+message DisplaySellerItemsRequest {
+  // Seller's address for displaying items
+  string seller_address = 1;
+  // Seller's UUID for credential verification (optional)
+  string seller_uuid = 2;
+}
+
+// Message structure for DisplaySellerItems response
+message DisplaySellerItemsResponse {
+  // List of items uploaded by the seller
+  repeated Item items = 1;
+
+  // Define the structure for the Item message
+  message Item {
+    // Item ID
+    int32 id = 1;
+    // Item price
+    double price = 2;
+    // Item name
+    string name = 3;
+    // Item category
+    string category = 4;
+    // Item description
+    string description = 5;
+    // Quantity remaining
+    int32 quantity_remaining = 6;
+    // Seller's address
+    string seller = 7;
+    // Item rating
+    double rating = 8;
+  }
+}
