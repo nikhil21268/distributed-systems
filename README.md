@@ -1,5 +1,3 @@
-# distributed-systems
-
 # Consolidated README for Distributed Systems Projects
 
 Welcome to my GitHub repository where I share projects that implement complex distributed systems and computational concepts applied to real-world scenarios. These projects include building a distributed K-means clustering model using MapReduce, enhancing a Raft consensus algorithm for better performance in geo-distributed databases, and setting up an online shopping platform using gRPC.
